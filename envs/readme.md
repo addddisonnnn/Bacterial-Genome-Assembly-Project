@@ -1,35 +1,35 @@
 ### List of necessary tools and their environments:
 
 - Bowtie
- - file: bowtie2_env.yml
- - version: 2.5.4
+   - file: bowtie2_env.yml
+   - version: 2.5.4
 - BUSCO
- - file: busco_env.yml
- - version: 6.0.0
+   - file: busco_env.yml
+   - version: 6.0.0
 - FastQC
- - file: fastqc_env.yml
- - version: 
+   - file: fastqc_env.yml
+   - version: 
 - Filtlong
- - file: filtlong_env.yml
- - version: 0.3.0
+   - file: filtlong_env.yml
+   - version: 0.3.0
 - flye
- - file: fly_env.yml
- - version: 2.9.6
+   - file: fly_env.yml
+   - version: 2.9.6
 - Nextflow
   - file: base_env.yml
   - version: 25.04.06
 - NCBI datasets CLI
- - file: ncbidatasets_env.yml
- - version: 18.6.0
+   - file: ncbidatasets_env.yml
+   - version: 18.6.0
 - Pilon
- - file: pilon_env.yml
- - version: 1.24
+   - file: pilon_env.yml
+   - version: 1.24
 - Prokka
- - file: prokka_env.yml
- - version: 1.14.6
+   - file: prokka_env.yml
+   - version: 1.14.6
 - QUAST
- - file: quast_env.yml
- - version: 5.3.0
+   - file: quast_env.yml
+   - version: 5.3.0
 - Samtools
- - file: samtools_env.yml
- - version: 1.22.1
+   - file: samtools_env.yml
+   - version: 1.22.1
